@@ -15,7 +15,8 @@ I like dancing, filming, and editing YouTube on my day off 🕺 🎬
 - <img src="https://img.shields.io/badge/Elastic Stack-005571?style=flat-square&logo=Elastic Stack&logoColor=white"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white">
 
 
-
+![본인ID's github stats](https://github-readme-stats-gocheat.vercel.app/api?username=bluecheat&count_private=true&show_icons=true&theme=dracula)
+[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bluecheat&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/본인ID)
 
 
 
