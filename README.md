@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/Tech Blog-black?style=flat-square&logo=GitHub&logoColor=white" />]([https://medium.com/@bluecheat](https://medium.com/@bluecheat))
+[<img src="https://img.shields.io/badge/Tech Blog-black?style=flat-square&logo=GitHub&logoColor=white" />](https://medium.com/@bluecheat)
 [<img src="https://img.shields.io/badge/itsinil@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white" />](itsinil@gmail.com)
 
 🙌  Hi there! I'm Perspective-oriented Engineer using Spring and GoLang 👊<br>
